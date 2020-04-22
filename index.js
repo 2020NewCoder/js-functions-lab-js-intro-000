@@ -1,4 +1,6 @@
 function happyHolidays(name) {
+if console.log===happyHolidays{
   return ("Happy holidays!");
-}// write your code below!
-happyHolidays(name);
+}
+
+}
