@@ -6,4 +6,4 @@ happyHolidays("name");
 function happyCustomHolidayTo(holiday, name){
   return 'Happy holidays, ${holiday}, ${name}!'
 }
-happyCustomHolidayTo("Independence, may");
+happyCustomHolidayTo('Happy ${Independence Day} , ${you}!');
