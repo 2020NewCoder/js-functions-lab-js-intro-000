@@ -3,7 +3,7 @@ function happyHolidays(name) {
 }// write your code below!
 happyHolidays("name");
 
-funtion happyHolidaysTo (name){
-  return `Happy holidays, ${name}!:`
+funtion happyHolidaysTo(name){
+  return `Happy holidays, ${name}!`;
 }
 happyHolidaysTo();
