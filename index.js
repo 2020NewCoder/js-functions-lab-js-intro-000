@@ -6,4 +6,4 @@ happyHolidays(name);
 function happyHolidays(name){
   return ("Happy holidays, ${name}!");
 }
-happyHolidays(name);
+happyHolidays();
