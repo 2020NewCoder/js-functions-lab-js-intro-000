@@ -1,5 +1,4 @@
 function happyHolidays (""){
   return ("Happy holidays!");
-
 }
-happyHolidays('');
+happyHolidays();
